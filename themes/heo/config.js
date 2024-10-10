@@ -23,7 +23,7 @@ const CONFIG = {
   HEO_HERO_TITLE_3: '思考-记录-分享',
   HEO_HERO_TITLE_4: '你好呀',
   HEO_HERO_TITLE_5: '欢迎来到我的博客',
-  HEO_HERO_TITLE_LINK: 'https://vergilyzx.vercel.app',
+  HEO_HERO_TITLE_LINK: 'https://www.suny-vergil.top',
 
   // 英雄区显示三个置顶分类
   HEO_HERO_CATEGORY_1: { title: '必看精选', url: '/tag/必看精选' },
@@ -51,7 +51,7 @@ const CONFIG = {
   HEO_INFO_CARD_ICON1: 'fas fa-user',
   HEO_INFO_CARD_URL2: 'https://github.com/borcation',
   HEO_INFO_CARD_ICON2: 'fab fa-github',
-  HEO_INFO_CARD_URL3: 'https://vergilyzx.vercel.app/',
+  HEO_INFO_CARD_URL3: 'https://www.suny-vergil.top',
   HEO_INFO_CARD_TEXT3: '了解更多',
 
   // 用户技能图标
